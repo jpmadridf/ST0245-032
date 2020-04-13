@@ -9,10 +9,9 @@ import java.util.*;
 
 public class JavaApplication59 {
     public static void main(String[] args){
-        String a = "asd[gfh[[dfh]hgh]fdfhd[dfg[d]g[d]dg";
-        teclado(a);
        
     }
+    
     public static void teclado(String a){
         LinkedList<Character>texto = new LinkedList<>();
         Boolean e=false;

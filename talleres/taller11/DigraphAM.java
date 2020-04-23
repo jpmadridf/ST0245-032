@@ -1,6 +1,4 @@
 
-package taller11;
-
 import java.util.ArrayList;
 
 public class DigraphAM extends Graph {

@@ -1,15 +1,8 @@
 
-package taller11;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 import javafx.util.Pair;
-/**
- * Write a description of class Subject here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class DigraphAL extends Graph {
 
     ArrayList<LinkedList<Pair<Integer,Integer>>> nodo;

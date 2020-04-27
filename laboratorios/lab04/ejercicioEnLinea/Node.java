@@ -1,7 +1,4 @@
 
-package tree;
-
-
 public class Node {
     public Node left,rigth;
     public int data;
